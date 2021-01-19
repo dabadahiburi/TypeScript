@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dabadahiburi/TypeScript/issues"
   },
-  "homepage": "https://github.com/dabadahiburi/TypeScript#readme"
+  "homepage": "https://github.com/dabadahiburi/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
